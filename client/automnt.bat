@@ -1,0 +1,1 @@
+# sc create cmnt binPath= C:\syscmnt\clientmnt.exe start= auto
